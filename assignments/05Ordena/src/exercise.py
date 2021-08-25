@@ -32,6 +32,7 @@ if (z>y>x):
 if (z>x>y):
     print(y)
     print(x)
+    print(z)
 
 
 if __name__=='__main__':
